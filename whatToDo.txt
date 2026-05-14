@@ -1,0 +1,2 @@
+创建一个frontend文件夹，将chat_new_beautiful3放进去，再下载一个vosk模型放到这个文件夹里
+Download a Vosk model and put it in this folder
