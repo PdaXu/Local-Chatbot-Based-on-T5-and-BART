@@ -1,0 +1,185 @@
+2025-04-28 00:10:29,560 - ERROR - Conda环境不存在: E:\Conda\envs\envs\glm
+2025-04-28 00:18:38,288 - ERROR - Conda环境不存在: E:\Conda\envs\envs\glm
+2025-04-28 00:18:45,153 - ERROR - Conda环境不存在: E:\Conda\envs\envs\T5Bot
+2025-04-28 14:55:44,507 - ERROR - Conda环境不存在: E:\Conda\envs\envs\glm
+2025-04-28 15:11:14,953 - ERROR - 模型执行失败: # >>>>>>>>>>>>>>>>>>>>>> ERROR REPORT <<<<<<<<<<<<<<<<<<<<<<
+
+    Traceback (most recent call last):
+      File "E:\Anaconda\lib\site-packages\conda\exceptions.py", line 1082, in __call__
+        return func(*args, **kwargs)
+      File "E:\Anaconda\lib\site-packages\conda\cli\main.py", line 87, in _main
+        exit_code = do_call(args, p)
+      File "E:\Anaconda\lib\site-packages\conda\cli\conda_argparse.py", line 84, in do_call
+        return getattr(module, func_name)(args, parser)
+      File "E:\Anaconda\lib\site-packages\conda\cli\main_run.py", line 52, in execute
+        print(response.stdout, file=sys.stdout)
+    UnicodeEncodeError: 'gbk' codec can't encode character '\ufffd' in position 22: illegal multibyte sequence
+
+`$ E:\Anaconda\Scripts\conda-script.py run -n T5Bot python d:\study\MGW\ChatAPP\backend\bart_part.py`
+
+  environment variables:
+     BUNDLED_DEBUGPY_PATH=c:\Users\HeiCha\.vscode\extensions\ms-
+                          python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy
+                 CIO_TEST=<not set>
+                CLASSPATH=C:\Users\HeiCha\IdeaProjects\untitled\class
+        CONDA_DEFAULT_ENV=chatapp
+                CONDA_EXE=E:\Anaconda\Scripts\conda.exe
+             CONDA_PREFIX=E:\Conda\envs\chatapp
+    CONDA_PROMPT_MODIFIER=(chatapp)
+         CONDA_PYTHON_EXE=E:\Anaconda\python.exe
+               CONDA_ROOT=E:\Anaconda
+              CONDA_SHLVL=1
+           CURL_CA_BUNDLE=<not set>
+                 HOMEPATH=\Users\HeiCha
+          NVTOOLSEXT_PATH=C:\Program Files\NVIDIA Corporation\NvToolsExt\
+                     PATH=E:\Conda\envs\chatapp\lib\site-packages\PyQt5\Qt5\bin;E:\Conda\envs\ch
+                          atapp;E:\Conda\envs\chatapp\Library\mingw-w64\bin;E:\Conda\envs\chatap
+                          p\Library\usr\bin;E:\Conda\envs\chatapp\Library\bin;E:\Conda\envs\chat
+                          app\Scripts;E:\Conda\envs\chatapp\bin;E:\Anaconda\condabin;C:\Program
+                          Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files
+                          (x86)\Common Files\Oracle\Java\javapath;C:\Program Files
+                          (x86)\VMware\VMware Workstation\bin;C:\Program
+                          Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Window
+                          s\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\Win
+                          dowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program
+                          Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7;C:\Program Files
+                          (x86)\NVIDIA Corporation\PhysX\Common;C:\Program
+                          Files\Java\jdk1.8.0_131\bin;C:\Program Files\dotnet;C:\Program
+                          Files\Bandizip;C:\Users\HeiCha\IdeaProjects\untitled\src;C;\Program
+                          Files\nodejs;E:\Study\maven3.6-netbox\apache-
+                          maven-3.6.3\bin;C:\Program Files\Java\jdk1.8.0_361\bin;\bin;C:\Program
+                          Files\MySQL\MySQL Server 5.7\bin;E:\Study\Schoolweb\apache-tomcat-9.0.
+                          71\bin;D:\matlab\matlab2018b\runtime\win64;D:\matlab\matlab2018b\bin;C
+                          :\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.1;C:\Program 
+                          Files\Git\cmd;C:\Users\HeiCha\AppData\Local\Programs\Python\Python310\
+                          Scripts;C:\Users\HeiCha\AppData\Local\Programs\Python\Python310;C:\Pro
+                          gram Files\PuTTY;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wb
+                          em;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\Open
+                          SSH;C:\Program Files\nodejs;C:\Program Files\NVIDIA Corporation\NVIDIA
+                          app\NvDLISR;E:\Anaconda;E:\Anaconda\Scripts;E:\Anaconda\Library\bin;E:
+                          \Anaconda\Library\mingw-w64\bin;C:\Users\HeiCha\AppData\Local\Programs
+                          \Python\Python310\Scripts;C:\Users\HeiCha\AppData\Local\Programs\Pytho
+                          n\Python310;C:\Users\HeiCha\AppData\Local\Microsoft\WindowsApps;C:\Use
+                          rs\HeiCha\AppData\Local\Programs\Microsoft VS
+                          Code\bin;E:\Study\Schoolweb\apache-tomcat-9.0.71\bin;D:\Code\OpenCV\op
+                          encv\build\bin;C:\Users\HeiCha\.dotnet\tools;C:\Program
+                          Files\Huawei\DevEco Studio\bin;.;E:\ffmpeg-2024-07-24-git-896c22ef00-e
+                          ssentials_build\bin;C:\Users\HeiCha\AppData\Roaming\npm;D:\VS\Microsof
+                          t VS Code\bin;E:\Conda\envs\chatapp;E:\Conda\envs\chatapp\Library\ming
+                          w-w64\bin;E:\Conda\envs\chatapp\Library\usr\bin;E:\Conda\envs\chatapp\
+                          Library\bin;E:\Conda\envs\chatapp\Scripts;E:\Conda\envs\chatapp\bin;E:
+                          \Anaconda\condabin;C:\Program Files (x86)\Common
+                          Files\Oracle\Java\java8path;C:\Program Files (x86)\Common
+                          Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware
+                          Workstation\bin;C:\Program Files\PlasticSCM5\server;C:\Program Files\P
+                          lasticSCM5\client;C:\Windows\system32;C:\Windows;C:\Windows\System32\W
+                          bem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\Ope
+                          nSSH;C:\Program Files\NVIDIA GPU Computing
+                          Toolkit\CUDA\v11.7;C:\Program Files (x86)\NVIDIA
+                          Corporation\PhysX\Common;C:\Program
+                          Files\Java\jdk1.8.0_131\bin;C:\Program Files\dotnet;C:\Program
+                          Files\Bandizip;C:\Users\HeiCha\IdeaProjects\untitled\src;C;\Program
+                          Files\nodejs;E:\Study\maven3.6-netbox\apache-
+                          maven-3.6.3\bin;C:\Program Files\Java\jdk1.8.0_361\bin;\bin;C:\Program
+                          Files\MySQL\MySQL Server 5.7\bin;E:\Study\Schoolweb\apache-tomcat-9.0.
+                          71\bin;D:\matlab\matlab2018b\runtime\win64;D:\matlab\matlab2018b\bin;C
+                          :\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.1;C:\Program 
+                          Files\Git\cmd;C:\Users\HeiCha\AppData\Local\Programs\Python\Python310\
+                          Scripts;C:\Users\HeiCha\AppData\Local\Programs\Python\Python310;C:\Pro
+                          gram Files\PuTTY;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wb
+                          em;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\Open
+                          SSH;C:\Program Files\nodejs;C:\Program Files\NVIDIA Corporation\NVIDIA
+                          app\NvDLISR;E:\Anaconda;E:\Anaconda\Scripts;E:\Anaconda\Library\bin;E:
+                          \Anaconda\Library\mingw-w64\bin;C:\Users\HeiCha\AppData\Local\Programs
+                          \Python\Python310\Scripts;C:\Users\HeiCha\AppData\Local\Programs\Pytho
+                          n\Python310;C:\Users\HeiCha\AppData\Local\Microsoft\WindowsApps;C:\Use
+                          rs\HeiCha\AppData\Local\Programs\Microsoft VS
+                          Code\bin;E:\Study\Schoolweb\apache-tomcat-9.0.71\bin;D:\Code\OpenCV\op
+                          encv\build\bin;C:\Users\HeiCha\.dotnet\tools;C:\Program
+                          Files\Huawei\DevEco Studio\bin;.;E:\ffmpeg-2024-07-24-git-896c22ef00-e
+                          ssentials_build\bin;C:\Users\HeiCha\AppData\Roaming\npm;D:\VS\Microsof
+                          t VS Code\bin;C:\Program Files (x86)\Common
+                          Files\Oracle\Java\java8path;C:\Program Files (x86)\Common
+                          Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware
+                          Workstation\bin\;C:\Program Files\PlasticSCM5\server;C:\Program Files\
+                          PlasticSCM5\client;C:\Windows\system32;C:\Windows;C:\Windows\System32\
+                          Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\O
+                          penSSH\;C:\Program Files\NVIDIA GPU Computing
+                          Toolkit\CUDA\v11.7;C:\Program Files (x86)\NVIDIA
+                          Corporation\PhysX\Common;C:\Program
+                          Files\Java\jdk1.8.0_131\bin;C:\Program Files\dotnet\;C:\Program
+                          Files\Bandizip\;C:\Users\HeiCha\IdeaProjects\untitled\src;C;\Program
+                          Files\nodejs\;E:\Study\maven3.6-netbox\apache-
+                          maven-3.6.3\bin;C:\Program Files\Java\jdk1.8.0_361\bin;%
+                          JAVA_CLASS%\bin;C:\Program Files\MySQL\MySQL Server
+                          5.7\bin;E:\Study\Schoolweb\apache-tomcat-9.0.71\bin;D:\matlab\matlab20
+                          18b\runtime\win64;D:\matlab\matlab2018b\bin;C:\Program Files\NVIDIA
+                          Corporation\Nsight Compute 2022.2.1\;C:\Program Files\Git\cmd;C:\Users
+                          \HeiCha\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\HeiC
+                          ha\AppData\Local\Programs\Python\Python310\;C:\Program Files\PuTTY\;C:
+                          \WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\Syste
+                          m32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program
+                          Files\nodejs\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;E
+                          :\Anaconda;E:\Anaconda\Scripts;E:\Anaconda\Library\bin;E:\Anaconda\Lib
+                          rary\mingw-w64\bin;C:\Users\HeiCha\AppData\Local\Programs\Python\Pytho
+                          n310\Scripts\;C:\Users\HeiCha\AppData\Local\Programs\Python\Python310\
+                          ;C:\Users\HeiCha\AppData\Local\Microsoft\WindowsApps;C:\Users\HeiCha\A
+                          ppData\Local\Programs\Microsoft VS Code\bin;E:\Study\Schoolweb\apache-
+                          tomcat-9.0.71\bin;D:\Code\OpenCV\opencv\build\bin;C:\Users\HeiCha\.dot
+                          net\tools;C:\Program Files\Huawei\DevEco Studio\bin;;E:\ffmpeg-2024-07
+                          -24-git-896c22ef00-essentials_build\bin;C:\Users\HeiCha\AppData\Roamin
+                          g\npm;D:\VS\Microsoft VS Code\bin
+             PSMODULEPATH=C:\Users\HeiCha\Documents\WindowsPowerShell\Modules;C:\Program Files\W
+                          indowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Mo
+                          dules
+       REQUESTS_CA_BUNDLE=<not set>
+            SSL_CERT_FILE=E:\Conda\envs\chatapp\Library\ssl\cacert.pem
+
+     active environment : chatapp
+    active env location : E:\Conda\envs\chatapp
+            shell level : 1
+       user config file : C:\Users\HeiCha\.condarc
+ populated config files : C:\Users\HeiCha\.condarc
+          conda version : 4.12.0
+    conda-build version : 3.21.8
+         python version : 3.9.12.final.0
+       virtual packages : __cuda=12.7=0
+                          __win=0=0
+                          __archspec=1=x86_64
+       base environment : E:\Anaconda  (read only)
+      conda av data dir : E:\Anaconda\etc\conda
+  conda av metadata url : None
+           channel URLs : https://repo.anaconda.com/pkgs/main/win-64
+                          https://repo.anaconda.com/pkgs/main/noarch
+                          https://repo.anaconda.com/pkgs/r/win-64
+                          https://repo.anaconda.com/pkgs/r/noarch
+                          https://repo.anaconda.com/pkgs/msys2/win-64
+                          https://repo.anaconda.com/pkgs/msys2/noarch
+                          https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/win-64
+                          https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/noarch
+                          https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r/win-64
+                          https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r/noarch
+                          https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2/win-64
+                          https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2/noarch
+          package cache : E:\Conda\pkgs
+       envs directories : E:\Conda\envs
+                          C:\Users\HeiCha\.conda\envs
+                          E:\Anaconda\envs
+                          C:\Users\HeiCha\AppData\Local\conda\conda\envs
+               platform : win-64
+             user-agent : conda/4.12.0 requests/2.27.1 CPython/3.9.12 Windows/10 Windows/10.0.26100
+          administrator : False
+             netrc file : None
+           offline mode : False
+
+
+An unexpected error has occurred. Conda has prepared the above report.
+
+If submitted, this report will be used by core maintainers to improve
+future releases of conda.
+Would you like conda to send this report to the core maintainers?
+
+
+No report sent. To permanently opt-out, use
+
+    $ conda config --set report_errors false

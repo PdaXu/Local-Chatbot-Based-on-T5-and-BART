@@ -1,0 +1,372 @@
+2025-05-15 21:47:08 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 21:47:08 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 21:47:15 - 模型: T5, 推理时间: 2.0451 秒
+2025-05-15 21:47:28 - 模型: T5, 推理时间: 2.0412 秒
+2025-05-15 21:48:58 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 21:48:58 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 21:49:15 - 模型: T5, 推理时间: 0.7691 秒
+2025-05-15 21:49:27 - 模型: T5, 推理时间: 1.8764 秒
+2025-05-15 21:49:50 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 21:49:50 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 21:50:01 - 模型: T5, 推理时间: 0.5720 秒
+2025-05-15 21:50:12 - 模型: T5, 推理时间: 0.1801 秒
+2025-05-15 21:50:23 - 模型: BART, 推理时间: 0.4281 秒
+2025-05-15 21:50:31 - 模型: BART, 推理时间: 0.5239 秒
+2025-05-15 21:57:20 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 21:57:20 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 21:57:26 - 模型: T5, 推理时间: 2.0407 秒
+2025-05-15 21:57:35 - 模型: T5, 推理时间: 2.0766 秒
+2025-05-15 21:58:24 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 21:58:24 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 21:58:30 - 模型: T5, 推理时间: 2.0473 秒
+2025-05-15 22:00:22 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 22:00:22 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 22:00:28 - 模型: T5, 推理时间: 2.0491 秒
+2025-05-15 22:00:38 - 模型: T5, 推理时间: 2.0668 秒
+2025-05-15 22:10:01 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 22:10:01 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 22:10:07 - 模型: T5, 推理时间: 2.0539 秒
+2025-05-15 22:13:36 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 22:13:36 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 22:13:42 - 模型: T5, 推理时间: 2.0400 秒
+2025-05-15 22:23:05 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 22:23:05 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 22:23:12 - 模型: T5, 推理时间: 2.0532 秒
+2025-05-15 22:24:14 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 22:24:14 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 22:24:24 - 模型: T5, 推理时间: 2.0514 秒
+2025-05-15 22:24:38 - 
+    Error 305 for command:
+        open "C:\Users\HeiCha\AppData\Local\Temp\tmp882hu7yc.mp3"
+    在用引号括起的字符串不能指定额外的字符。
+2025-05-15 22:24:38 - 
+    Error 263 for command:
+        close "C:\Users\HeiCha\AppData\Local\Temp\tmp882hu7yc.mp3"
+    指定的设备未打开，或不被 MCI 所识别。
+2025-05-15 22:24:38 - Failed to close the file: "C:\Users\HeiCha\AppData\Local\Temp\tmp882hu7yc.mp3"
+2025-05-15 22:24:39 - 
+    Error 305 for command:
+        open "C:\Users\HeiCha\AppData\Local\Temp\tmp80hjhens.mp3"
+    在用引号括起的字符串不能指定额外的字符。
+2025-05-15 22:24:39 - 
+    Error 263 for command:
+        close "C:\Users\HeiCha\AppData\Local\Temp\tmp80hjhens.mp3"
+    指定的设备未打开，或不被 MCI 所识别。
+2025-05-15 22:24:39 - Failed to close the file: "C:\Users\HeiCha\AppData\Local\Temp\tmp80hjhens.mp3"
+2025-05-15 22:24:39 - 
+    Error 305 for command:
+        open "C:\Users\HeiCha\AppData\Local\Temp\tmp_gr58sv3.mp3"
+    在用引号括起的字符串不能指定额外的字符。
+2025-05-15 22:24:39 - 
+    Error 263 for command:
+        close "C:\Users\HeiCha\AppData\Local\Temp\tmp_gr58sv3.mp3"
+    指定的设备未打开，或不被 MCI 所识别。
+2025-05-15 22:24:39 - Failed to close the file: "C:\Users\HeiCha\AppData\Local\Temp\tmp_gr58sv3.mp3"
+2025-05-15 22:24:40 - 
+    Error 305 for command:
+        open "C:\Users\HeiCha\AppData\Local\Temp\tmp7b06319u.mp3"
+    在用引号括起的字符串不能指定额外的字符。
+2025-05-15 22:24:40 - 
+    Error 263 for command:
+        close "C:\Users\HeiCha\AppData\Local\Temp\tmp7b06319u.mp3"
+    指定的设备未打开，或不被 MCI 所识别。
+2025-05-15 22:24:40 - Failed to close the file: "C:\Users\HeiCha\AppData\Local\Temp\tmp7b06319u.mp3"
+2025-05-15 22:24:46 - 
+    Error 305 for command:
+        open "C:\Users\HeiCha\AppData\Local\Temp\tmpakip9vwt.mp3"
+    在用引号括起的字符串不能指定额外的字符。
+2025-05-15 22:24:46 - 
+    Error 263 for command:
+        close "C:\Users\HeiCha\AppData\Local\Temp\tmpakip9vwt.mp3"
+    指定的设备未打开，或不被 MCI 所识别。
+2025-05-15 22:24:46 - Failed to close the file: "C:\Users\HeiCha\AppData\Local\Temp\tmpakip9vwt.mp3"
+2025-05-15 22:24:46 - 
+    Error 305 for command:
+        open "C:\Users\HeiCha\AppData\Local\Temp\tmpzu6jj6gk.mp3"
+    在用引号括起的字符串不能指定额外的字符。
+2025-05-15 22:24:46 - 
+    Error 263 for command:
+        close "C:\Users\HeiCha\AppData\Local\Temp\tmpzu6jj6gk.mp3"
+    指定的设备未打开，或不被 MCI 所识别。
+2025-05-15 22:24:46 - Failed to close the file: "C:\Users\HeiCha\AppData\Local\Temp\tmpzu6jj6gk.mp3"
+2025-05-15 22:24:46 - 
+    Error 305 for command:
+        open "C:\Users\HeiCha\AppData\Local\Temp\tmp0r4lfufo.mp3"
+    在用引号括起的字符串不能指定额外的字符。
+2025-05-15 22:24:46 - 
+    Error 263 for command:
+        close "C:\Users\HeiCha\AppData\Local\Temp\tmp0r4lfufo.mp3"
+    指定的设备未打开，或不被 MCI 所识别。
+2025-05-15 22:24:46 - Failed to close the file: "C:\Users\HeiCha\AppData\Local\Temp\tmp0r4lfufo.mp3"
+2025-05-15 22:24:47 - 
+    Error 305 for command:
+        open "C:\Users\HeiCha\AppData\Local\Temp\tmpd5l9ochu.mp3"
+    在用引号括起的字符串不能指定额外的字符。
+2025-05-15 22:24:47 - 
+    Error 263 for command:
+        close "C:\Users\HeiCha\AppData\Local\Temp\tmpd5l9ochu.mp3"
+    指定的设备未打开，或不被 MCI 所识别。
+2025-05-15 22:24:47 - Failed to close the file: "C:\Users\HeiCha\AppData\Local\Temp\tmpd5l9ochu.mp3"
+2025-05-15 23:41:44 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-15 23:41:44 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-15 23:45:08 - 模型: T5, 推理时间: 0.7415 秒
+2025-05-15 23:45:24 - 模型: BART, 推理时间: 1.0280 秒
+2025-05-15 23:45:37 - 模型: BART, 推理时间: 0.5778 秒
+2025-05-15 23:45:51 - 模型: BART, 推理时间: 2.3832 秒
+2025-05-15 23:46:07 - 模型: T5, 推理时间: 1.8702 秒
+2025-05-16 19:54:58 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 19:54:58 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 19:55:17 - 模型: T5, 推理时间: 1.9898 秒
+2025-05-16 19:55:47 - 模型: BART, 推理时间: 1.1297 秒
+2025-05-16 19:56:53 - 模型: BART, 推理时间: 2.1593 秒
+2025-05-16 19:58:22 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 19:58:22 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 19:58:50 - 模型: T5, 推理时间: 2.0627 秒
+2025-05-16 19:59:34 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 19:59:34 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 19:59:59 - 模型: T5, 推理时间: 1.8871 秒
+2025-05-16 20:00:35 - 模型: BART, 推理时间: 2.4434 秒
+2025-05-16 20:01:19 - 模型: BART, 推理时间: 1.2779 秒
+2025-05-16 20:01:52 - 模型: BART, 推理时间: 0.8489 秒
+2025-05-16 20:02:08 - 模型: T5, 推理时间: 1.7676 秒
+2025-05-16 20:02:36 - 模型: T5, 推理时间: 1.7715 秒
+2025-05-16 20:02:46 - 模型: BART, 推理时间: 1.4461 秒
+2025-05-16 20:03:12 - 模型: BART, 推理时间: 1.1182 秒
+2025-05-16 20:03:53 - 模型: T5, 推理时间: 1.7964 秒
+2025-05-16 20:04:56 - 模型: T5, 推理时间: 1.7648 秒
+2025-05-16 20:05:50 - 模型: T5, 推理时间: 1.7202 秒
+2025-05-16 20:07:07 - 模型: BART, 推理时间: 4.0419 秒
+2025-05-16 20:07:56 - 模型: T5, 推理时间: 1.0636 秒
+2025-05-16 20:08:29 - 模型: T5, 推理时间: 0.5453 秒
+2025-05-16 20:08:37 - 模型: BART, 推理时间: 0.7274 秒
+2025-05-16 20:09:13 - 模型: BART, 推理时间: 0.3373 秒
+2025-05-16 20:09:27 - 模型: BART, 推理时间: 1.2580 秒
+2025-05-16 20:10:01 - 模型: BART, 推理时间: 1.2681 秒
+2025-05-16 20:10:26 - 模型: T5, 推理时间: 1.8130 秒
+2025-05-16 20:19:20 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 20:19:20 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 20:20:14 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 20:20:14 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 20:20:29 - 模型: T5, 推理时间: 1.8195 秒
+2025-05-16 20:21:32 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 20:21:32 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 20:21:45 - 模型: T5, 推理时间: 1.5952 秒
+2025-05-16 20:21:56 - 模型: BART, 推理时间: 2.3045 秒
+2025-05-16 20:22:18 - 模型: BART, 推理时间: 3.1985 秒
+2025-05-16 20:25:28 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 20:25:28 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 20:25:45 - 模型: T5, 推理时间: 1.6681 秒
+2025-05-16 20:29:39 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 20:29:39 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 20:29:49 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 20:29:49 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 21:51:58 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-16 21:51:58 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-16 21:52:14 - 模型: T5, 推理时间: 0.7813 秒
+2025-05-16 21:52:31 - 模型: T5, 推理时间: 1.8205 秒
+2025-05-16 21:52:50 - 模型: T5, 推理时间: 0.4536 秒
+2025-05-16 21:53:11 - 模型: T5, 推理时间: 0.6632 秒
+2025-05-16 21:53:23 - 模型: BART, 推理时间: 0.8521 秒
+2025-05-16 21:54:55 - 模型: BART, 推理时间: 2.4328 秒
+2025-05-16 21:55:08 - 模型: T5, 推理时间: 1.3726 秒
+2025-05-16 21:56:21 - 模型: BART, 推理时间: 2.6863 秒
+2025-05-17 00:55:02 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 00:55:02 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 00:55:20 - 模型: T5, 推理时间: 0.6457 秒
+2025-05-17 00:55:31 - 模型: BART, 推理时间: 0.3912 秒
+2025-05-17 00:55:51 - 模型: BART, 推理时间: 0.2020 秒
+2025-05-17 00:56:13 - 模型: BART, 推理时间: 0.8139 秒
+2025-05-17 00:56:22 - 模型: BART, 推理时间: 0.4487 秒
+2025-05-17 00:56:51 - 模型: BART, 推理时间: 1.4172 秒
+2025-05-17 00:57:14 - 模型: BART, 推理时间: 0.6297 秒
+2025-05-17 00:59:08 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 00:59:08 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 00:59:40 - 模型: T5, 推理时间: 0.5507 秒
+2025-05-17 00:59:47 - 模型: BART, 推理时间: 1.3540 秒
+2025-05-17 12:47:21 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 12:47:21 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 13:24:31 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 13:24:31 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 13:26:53 - 模型: T5, 推理时间: 1.0646 秒
+2025-05-17 14:58:59 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 14:58:59 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 14:59:26 - 模型: T5, 推理时间: 1.9222 秒
+2025-05-17 14:59:50 - 模型: BART, 推理时间: 4.0795 秒
+2025-05-17 15:00:38 - 模型: BART, 推理时间: 1.6447 秒
+2025-05-17 15:00:55 - 模型: BART, 推理时间: 1.8899 秒
+2025-05-17 15:01:16 - 模型: T5, 推理时间: 0.6770 秒
+2025-05-17 16:25:03 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 16:25:03 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 16:25:34 - 模型: T5, 推理时间: 0.4188 秒
+2025-05-17 16:28:16 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 16:28:16 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 16:45:10 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 16:45:10 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 17:07:16 - 模型: T5, 推理时间: 0.6893 秒
+2025-05-17 17:07:27 - 模型: T5, 推理时间: 0.5083 秒
+2025-05-17 17:07:42 - 模型: T5, 推理时间: 1.6155 秒
+2025-05-17 17:08:19 - 模型: T5, 推理时间: 1.4586 秒
+2025-05-17 17:08:35 - 模型: BART, 推理时间: 2.6285 秒
+2025-05-17 17:09:00 - 模型: BART, 推理时间: 0.3150 秒
+2025-05-17 17:09:38 - 模型: BART, 推理时间: 2.8941 秒
+2025-05-17 17:10:01 - 模型: T5, 推理时间: 1.6810 秒
+2025-05-17 17:10:09 - 模型: T5, 推理时间: 1.6640 秒
+2025-05-17 17:10:18 - 模型: T5, 推理时间: 1.6390 秒
+2025-05-17 17:10:29 - 模型: BART, 推理时间: 1.4177 秒
+2025-05-17 17:11:06 - 模型: BART, 推理时间: 1.5922 秒
+2025-05-17 17:42:35 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-17 17:42:35 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-17 17:46:13 - 模型: T5, 推理时间: 2.0049 秒
+2025-05-17 17:46:24 - 模型: T5, 推理时间: 0.7273 秒
+2025-05-22 11:03:23 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-22 11:03:23 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-22 11:03:52 - 模型: T5, 推理时间: 0.3699 秒
+2025-05-22 11:04:02 - 模型: T5, 推理时间: 1.6426 秒
+2025-05-22 11:04:12 - 模型: T5, 推理时间: 0.5639 秒
+2025-05-22 11:04:33 - 模型: BART, 推理时间: 1.2923 秒
+2025-05-22 11:10:33 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-22 11:10:33 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-22 11:10:56 - 模型: T5, 推理时间: 0.6432 秒
+2025-05-22 11:11:08 - 模型: BART, 推理时间: 0.7266 秒
+2025-05-22 11:11:29 - 模型: BART, 推理时间: 0.2964 秒
+2025-05-22 11:12:04 - 模型: BART, 推理时间: 0.2154 秒
+2025-05-22 11:33:02 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-22 11:33:02 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-22 11:33:21 - 模型: T5, 推理时间: 0.6911 秒
+2025-05-22 11:33:36 - 模型: T5, 推理时间: 0.9525 秒
+2025-05-22 11:33:50 - 模型: BART, 推理时间: 0.7902 秒
+2025-05-22 11:34:17 - 模型: BART, 推理时间: 0.8092 秒
+2025-05-26 11:46:45 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-26 11:46:45 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-05-26 11:47:01 - 模型: T5, 推理时间: 2.0120 秒
+2025-06-05 00:58:54 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-05 00:58:54 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-06-05 00:59:11 - 模型: T5, 推理时间: 0.8100 秒
+2025-06-05 00:59:30 - 模型: T5, 推理时间: 1.1731 秒
+2025-06-05 00:59:41 - 模型: BART, 推理时间: 0.9908 秒
+2025-06-05 00:59:57 - 模型: BART, 推理时间: 0.7143 秒
+2025-06-05 01:00:12 - 模型: BART, 推理时间: 0.8268 秒
+2025-06-05 01:00:26 - 模型: BART, 推理时间: 0.9158 秒
+2025-06-05 08:46:00 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-05 08:46:00 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-06-05 08:47:17 - 模型: T5, 推理时间: 0.7677 秒
+2025-06-05 08:47:33 - 模型: BART, 推理时间: 1.0271 秒
+2025-06-05 08:50:46 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-05 08:50:46 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-06-05 09:28:22 - 模型: T5, 推理时间: 3.3985 秒
+2025-06-07 11:43:11 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-07 11:43:11 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-06-07 11:46:01 - 模型: T5, 推理时间: 1.3703 秒
+2025-06-07 11:47:13 - 模型: BART, 推理时间: 1.8918 秒
+2025-06-07 11:53:28 - 模型: BART, 推理时间: 1.3976 秒
+2025-06-07 11:54:12 - 模型: BART, 推理时间: 1.3318 秒
+2025-06-07 11:55:23 - 模型: BART, 推理时间: 0.3455 秒
+2025-06-07 11:57:03 - 模型: BART, 推理时间: 0.3577 秒
+2025-06-07 11:59:11 - 模型: BART, 推理时间: 0.3636 秒
+2025-06-07 11:59:39 - 模型: BART, 推理时间: 2.9224 秒
+2025-08-20 22:28:49 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-20 22:28:49 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-08-20 22:28:58 - 模型: T5, 推理时间: 2.0409 秒
+2025-08-20 22:29:05 - 模型: T5, 推理时间: 1.0306 秒
+2025-08-20 22:29:24 - 模型: T5, 推理时间: 0.4304 秒
+2025-08-20 22:29:39 - 模型: T5, 推理时间: 0.6434 秒
+2025-08-20 22:29:57 - 模型: BART, 推理时间: 0.4069 秒
+2025-08-20 22:30:38 - 模型: BART, 推理时间: 2.2767 秒
+2025-08-20 22:31:09 - 模型: BART, 推理时间: 1.5003 秒
+2025-08-20 22:31:49 - 模型: BART, 推理时间: 3.6707 秒
+2025-09-11 13:55:05 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-11 13:55:05 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-09-11 13:55:05 - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2025-09-11 13:55:05 - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-09-11 13:55:05 - # Generating comtypes.gen.SpeechLib
+2025-09-11 13:55:28 - 模型: T5, 推理时间: 0.6370 秒
+2025-09-11 13:55:44 - 模型: T5, 推理时间: 0.1518 秒
+2025-10-03 12:37:32 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-03 12:37:32 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-10-03 12:37:57 - 模型: T5, 推理时间: 0.9559 秒
+2025-10-03 12:38:15 - 模型: T5, 推理时间: 1.0564 秒
+2025-10-03 12:38:33 - 模型: BART, 推理时间: 3.5309 秒
+2025-10-03 12:39:09 - 模型: T5, 推理时间: 0.5141 秒
+2025-10-03 12:40:42 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-03 12:40:42 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-10-03 12:41:16 - 模型: T5, 推理时间: 0.5040 秒
+2025-10-03 12:51:49 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-03 12:51:49 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2025-10-03 12:52:11 - 模型: T5, 推理时间: 1.7674 秒
+2025-10-03 12:52:30 - 模型: T5, 推理时间: 1.6035 秒
+2025-10-03 12:53:40 - 模型: T5, 推理时间: 1.6341 秒
+2025-10-03 12:53:53 - 模型: T5, 推理时间: 1.6088 秒
+2025-10-03 12:54:09 - 模型: BART, 推理时间: 1.6534 秒
+2025-10-03 12:54:26 - 模型: BART, 推理时间: 1.0751 秒
+2025-10-03 12:55:59 - 模型: T5, 推理时间: 1.1138 秒
+2026-01-14 21:16:44 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 21:16:44 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-01-14 21:16:44 - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2026-01-14 21:16:44 - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-01-14 21:16:45 - # Generating comtypes.gen.SpeechLib
+2026-01-14 21:16:55 - 模型: T5, 推理时间: 2.0346 秒
+2026-01-14 21:17:00 - 模型: T5, 推理时间: 1.0092 秒
+2026-01-14 21:17:29 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 21:17:29 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-01-14 21:17:47 - 模型: T5, 推理时间: 0.8746 秒
+2026-01-14 21:17:53 - 模型: BART, 推理时间: 1.1115 秒
+2026-04-08 09:40:42 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-08 09:40:42 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-04-08 09:41:08 - 模型: T5, 推理时间: 1.2771 秒
+2026-04-08 09:42:45 - 模型: T5, 推理时间: 3.3108 秒
+2026-04-08 09:43:04 - 模型: T5, 推理时间: 0.7365 秒
+2026-04-08 09:43:47 - 模型: BART, 推理时间: 0.8236 秒
+2026-04-08 09:44:40 - 模型: BART, 推理时间: 3.0888 秒
+2026-04-08 09:44:55 - 模型: T5, 推理时间: 1.9253 秒
+2026-04-08 09:45:36 - 模型: T5, 推理时间: 0.8454 秒
+2026-04-08 09:45:50 - 模型: BART, 推理时间: 0.7024 秒
+2026-04-08 10:21:27 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-08 10:21:27 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-04-08 10:21:47 - 模型: T5, 推理时间: 0.9885 秒
+2026-04-08 10:22:22 - 模型: T5, 推理时间: 2.1100 秒
+2026-04-08 10:22:50 - 模型: T5, 推理时间: 0.8223 秒
+2026-04-08 10:23:07 - 模型: T5, 推理时间: 1.3763 秒
+2026-04-08 10:24:59 - 模型: T5, 推理时间: 2.0023 秒
+2026-04-08 10:25:22 - 模型: T5, 推理时间: 1.9304 秒
+2026-04-08 10:25:52 - 模型: BART, 推理时间: 1.7748 秒
+2026-04-08 10:28:49 - 模型: BART, 推理时间: 2.1825 秒
+2026-04-14 10:15:44 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-14 10:15:44 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-04-14 10:16:37 - 模型: T5, 推理时间: 2.0744 秒
+2026-04-14 10:17:21 - 模型: T5, 推理时间: 2.0254 秒
+2026-04-14 10:17:54 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-14 10:17:54 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-04-14 10:18:17 - 模型: T5, 推理时间: 2.0615 秒
+2026-04-14 10:20:37 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-14 10:20:37 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-04-14 10:20:58 - 模型: T5, 推理时间: 1.1705 秒
+2026-04-14 10:21:05 - 模型: T5, 推理时间: 0.6806 秒
+2026-04-14 10:21:38 - 模型: T5, 推理时间: 1.8093 秒
+2026-04-14 10:22:40 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-14 10:22:40 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-04-14 10:24:04 - 模型: T5, 推理时间: 1.0621 秒
+2026-04-14 10:24:19 - 模型: T5, 推理时间: 0.5700 秒
+2026-04-14 10:24:31 - 模型: T5, 推理时间: 0.8095 秒
+2026-04-14 10:25:50 - 模型: T5, 推理时间: 1.9987 秒
+2026-04-14 10:28:57 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-14 10:28:57 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-04-14 10:29:17 - 模型: T5, 推理时间: 1.0699 秒
+2026-04-14 10:29:51 - 模型: BART, 推理时间: 0.9574 秒
+2026-04-14 10:31:15 - 模型: BART, 推理时间: 2.7046 秒
+2026-04-14 10:32:17 - 模型: BART, 推理时间: 1.3872 秒
+2026-04-14 10:34:51 - 模型: T5, 推理时间: 1.8565 秒
+2026-04-14 10:36:02 - 模型: T5, 推理时间: 1.9295 秒
+2026-04-14 10:36:23 - 模型: BART, 推理时间: 0.5339 秒
+2026-04-14 10:41:53 - 模型: BART, 推理时间: 3.4475 秒
+2026-04-14 10:42:45 - 模型: T5, 推理时间: 1.1141 秒
+2026-04-14 10:43:47 - 模型: T5, 推理时间: 1.8829 秒
+2026-04-14 10:45:20 - 模型: T5, 推理时间: 1.8880 秒
+2026-04-14 10:45:54 - 模型: BART, 推理时间: 2.4964 秒
+2026-04-14 10:46:32 - 模型: BART, 推理时间: 3.9864 秒
+2026-04-14 10:46:40 - 模型: BART, 推理时间: 1.9428 秒
+2026-04-14 11:06:55 - 模型: BART, 推理时间: 1.5559 秒
+2026-05-14 01:30:06 - Imported existing <module 'comtypes.gen' from 'E:\\Conda\\envs\\chatapp\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-14 01:30:06 - Using writeable comtypes cache directory: 'E:\Conda\envs\chatapp\lib\site-packages\comtypes\gen'
+2026-05-14 01:30:06 - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2026-05-14 01:30:06 - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-05-14 01:30:06 - # Generating comtypes.gen.SpeechLib
