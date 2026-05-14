@@ -42,3 +42,7 @@ Speech-QA-System/
 └── models
     ├── BART
     └── T5
+
+以下是模型下载
+通过网盘分享的文件：T5(1).zip等2个文件
+链接: https://pan.baidu.com/s/1zGqQgANs7aXq1g6Jm85Bng?pwd=1111 提取码: 1111
